@@ -6,6 +6,8 @@ public class HappyBirthday {
 
         // Happy Birthday who were born today :)
         System.out.println (" happy birthdays guys :)");
+        
+        // This line was added in Github.
     }
 
 
